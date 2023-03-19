@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-image: url(./blackjack-background-jack-ace-1.jpg);
+    background-size: 1700px;
+    color: coral;
+}
+
+.back {
+    height: 300px;
+}
+
+.front {
+    height: 300px;
+}
+
+
+button {
+    height: 50px;
+    width: 50px;
+
+}
+
+#dealer-card img {
+    height: 200px;
+}
+
+#player-card img {
+    height: 200px;
+}
+
+p {
+    margin-top: 50px;
+}
